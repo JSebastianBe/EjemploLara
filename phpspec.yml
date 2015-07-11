@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: EjempploLara
+        psr4_prefix: EjempploLara
+        src_path: app
